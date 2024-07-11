@@ -1,0 +1,26 @@
+Name,PredominantDegree,HighestDegree,FundingModel,Region,Geography,AdmissionRate,ACTMedian,SATAverage,AverageCost,Expenditure,AverageFacultySalary,MedianDebt,AverageAgeofEntry,MedianFamilyIncome,MedianEarnings
+Alabama A & M University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8989,17,823,18888,7459,7079,19500,20.6299992,29039,27000
+University of Alabama at Birmingham,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8673,25,1146,19990,17208,10170,16250,22.6700001,34909,37200
+University of Alabama in Huntsville,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8062,26,1180,20306,9352,9341,16500,23.1900005,39766,41500
+Alabama State University,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.5125,17,830,17400,7393,6557,15854.5,20.8899994,24029.5,22400
+The University of Alabama,Bachelor's,Graduate,Public,Southeast,Small City,0.5655,26,1171,26717,9817,9605,17750,20.7700005,58976,39200
+Auburn University at Montgomery,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8371,21,970,16556,6817,7173,10750,23.4300003,27378,32400
+Auburn University,Bachelor's,Graduate,Public,Southeast,Small City,0.8274,27,1215,23788,11324,9429,18250,20.3299999,71775.5,41800
+Birmingham Southern College,Bachelor's,Bachelor's,Private,Southeast,Mid-size City,0.6422,26,1177,44512,9990,7513,21500,19.6200008,89942.5,38200
+Huntingdon College,Bachelor's,Bachelor's,Private,Southeast,Mid-size City,0.6279,22,999,31433,6571,6027,16850,22.9099999,54275.5,33000
+Jacksonville State University,Bachelor's,Graduate,Public,Southeast,Small City,0.8326,23,1036,19202,6949,6857,16500,22.8199997,35158,31300
+Judson College,Bachelor's,Bachelor's,Private,Southeast,Remote Rural,0.7388,22,1023,27815,9293,5638,14250,22.6100006,43020,25300
+University of West Alabama,Bachelor's,Graduate,Public,Southeast,Remote Rural,0.9957,20,950,17959,8898,6408,13500,22.5599995,23735,32200
+Marion Military Institute,Associate,Associate,Public,Southeast,Remote Rural,0.6034,22,1040,16520,6128,5909,5500,19.8700008,48241,37900
+University of Mobile,Bachelor's,Graduate,Private,Southeast,Fringe Rural,0.7125,23,1058,30108,6715,5024,22500,25.1299992,37643,32900
+University of Montevallo,Bachelor's,Graduate,Public,Southeast,Large Suburb,0.8729,23,1070,20209,7719,7035,15872,21.5599995,48019,30400
+University of North Alabama,Bachelor's,Graduate,Public,Southeast,Small City,0.8092,22,1028,15058,6814,7152,12542,22.2000008,40030,33000
+Oakwood University,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.3435,20,924,34705,7656,5307,22000,21.2299995,42094.5,27300
+Samford University,Bachelor's,Graduate,Private,Southeast,Large Suburb,0.7697,26,1153,38835,14054,8261,20000,21.0200005,77481,41400
+University of South Alabama,Bachelor's,Graduate,Public,Southeast,Mid-size City,0.8604,23,1064,17125,10325,7212,15000,23.6900005,30958,34400
+Spring Hill College,Bachelor's,Graduate,Private,Southeast,Mid-size City,0.4627,24,1100,43325,6999,6057,20500,21.4899998,58994,37500
+Southeastern Bible College,Bachelor's,Bachelor's,Private,Southeast,Large Suburb,0.9615,21,970,19127,4314,4577,19414.5,26.7800007,44006,27200
+Stillman College,Bachelor's,Bachelor's,Private,Southeast,Small City,0.43,19,882,24744,4330,4743,19000,20.5400009,25809,23200
+Troy University,Bachelor's,Graduate,Public,Southeast,Fringe Rural,0.6821,21,990,16877,5260,5996,17750,27.5300007,27401,33800
+Tuskegee University,Bachelor's,Graduate,Private,Southeast,Distant Town,0.3511,20,937,32853,13235,6679,23687.5,19.5900002,39069,30800
+Alaska Pacific University,Bachelor's,Graduate,Private,Far West,Large City,0.3745,22,1008,42925,10753,5137,19250,26.5200005,48081.5,38000
